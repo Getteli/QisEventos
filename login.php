@@ -129,7 +129,7 @@ include_once 'assets/php/cache_login.php';
         		</button>
 				<div class='logo-container'>
 	          	<div class='logo' style='border:none;border-radius:0;'>
-	          	<a href='index.php' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>
+	          	<a href='index.html' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>
         	</div>
         	</div>
         </div>
@@ -285,7 +285,7 @@ include_once 'assets/php/cache_login.php';
 		            <nav class="pull-left">
 						<ul>
 							<li>
-								<a href="index.php">
+								<a href="index.html">
 									Início
 								</a>
 							</li>

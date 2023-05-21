@@ -25,7 +25,7 @@ else{
 <!doctype html>
 <html lang="pt-br">
 <head>
-	<title>QISeventos - Recuperação de senha</title>
+	<title>QISeventos - Recuperaï¿½ï¿½o de senha</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 	<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
 	<link rel="icon" type="image/png" href="assets/img/favicon.png">
@@ -35,13 +35,13 @@ else{
 	<meta property="og:url" content="http://www.qiseventos.com.br/recuperar.php">
 	<meta property="og:title" content="QISeventos">
 	<meta property="og:site_name" content="QISeventos">
-	<meta property="og:description" content="Recuperação de senha - QISeventos">
+	<meta property="og:description" content="Recuperaï¿½ï¿½o de senha - QISeventos">
 	<meta property="og:image" content="https://www.qiseventos.com.br/assets/img/icon_share.jpg">
 	<meta property="og:image:secure_url" content="https://www.qiseventos.com.br/assets/img/icon_share.jpg">
 	<meta property="og:image:type" content="image/jpeg">
 	<meta property="og:image:width" content="200"> <!-- pixel -->
 	<meta property="og:image:height" content="200"> <!-- pixel -->
-	<meta name="description" content="Recuperação de senha - QISeventos">
+	<meta name="description" content="Recuperaï¿½ï¿½o de senha - QISeventos">
 	<!-- /** CASO SEJA UM SITE NORMAL **/ -->
 	<meta property="og:type" content="website">
 	<meta name="google-signin-client_id" content="797736855998-h9r6mg8js0bn0conujgli0bbb6jsebnc.apps.googleusercontent.com">
@@ -94,7 +94,7 @@ else{
 </button>
 <div class='logo-container'>
 <div class='logo' style='border:none;border-radius:0;'>
-<a href='index.php' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>
+<a href='index.html' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>
 </div>
 </div>
 </div>
@@ -138,7 +138,7 @@ else{
 	<div class="card_l card-signup" >
 	<form class="form" method="POST" action="assets/php/rec_senha.php" id="form">
 		<div class="header_l header header-primary text-center">
-		<h4 rel="tooltip" title="Ao enviar, n¨®s iremos mandar um e-mail com sua senha" data-html="true" data-placement="top">Recupere sua senha</h4>
+		<h4 rel="tooltip" title="Ao enviar, nï¿½ï¿½s iremos mandar um e-mail com sua senha" data-html="true" data-placement="top">Recupere sua senha</h4>
 		<div class="social-line"></div>
 		</div>								
 		<div class="content">
@@ -161,8 +161,8 @@ else{
 	<div class="container">
 	<nav class="pull-left">
 	<ul>
-		<li><a href="index.php">Início</a></li>
-		<li><a href="contato-sobrenos.php">Sobre nós</a></li>
+		<li><a href="index.html">Inï¿½cio</a></li>
+		<li><a href="contato-sobrenos.php">Sobre nï¿½s</a></li>
 		<li><a href="contato-sobrenos.php#us">Contato</a></li>
 	</ul>
 	</nav>

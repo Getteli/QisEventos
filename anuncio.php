@@ -416,7 +416,7 @@ $id_ja_fav = $linha_fav['id_fk_usu'];
 	    if ($lvl == "1") {
 	    echo "<div class='logo-container'>
 	          <div class='logo' style='border:none;border-radius:0;'>	                	
-	          <a href='index.php' alt='login qiseventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
+	          <a href='index.html' alt='login qiseventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
 	    }else{
 	    if(empty($foto_perfil)){
 	    echo "<div class='logo-container'>
@@ -463,7 +463,7 @@ $id_ja_fav = $linha_fav['id_fk_usu'];
 	<?php 
 	if (mysqli_num_rows($query) == 0) {
 		echo "<h2 class='text-center'>Este usuário não existe :(</h2><br>
-			<h4 class='text-center'><a href='index.php'>Volte</a> e verifique se o nome do usuario está certo</h4><br>
+			<h4 class='text-center'><a href='index.html'>Volte</a> e verifique se o nome do usuario está certo</h4><br>
 			<img id='notfound' src='assets/img/notfound.png'/>";
 		echo "<div style='display:none;'>";
 	}

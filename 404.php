@@ -122,7 +122,7 @@ include_once 'assets/php/cache.php';
 		if ($lvl == "1") {
 		echo "<div class='logo-container'>
 			<div class='logo' style='border:none;border-radius:0;'>
-			<a href='index.php' alt='login qiseventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
+			<a href='index.html' alt='login qiseventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
 		}else{
 		if(empty($foto_perfil)){
 		echo "<div class='logo-container'>
@@ -163,7 +163,7 @@ include_once 'assets/php/cache.php';
 	<div class="header header-filter" style="background-image: url('assets/img/img-login.jpg');"></div>
 	<div class="main main-raised">
 		<h1 class="text-center">Página não encontrada :(</h1><br>
-		<h4 class="text-center">A página que você esta tentando acessar pode não existir, <a href="index.php">voltar</a>.</h4>
+		<h4 class="text-center">A página que você esta tentando acessar pode não existir, <a href="index.html">voltar</a>.</h4>
 	</div>
 	<!-- fim main -->
 	<div id="testenoti">

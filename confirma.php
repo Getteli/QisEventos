@@ -189,7 +189,7 @@ if ($con) {
 	    if ($lvl == "1") {
 	    echo "<div class='logo-container'>
 	          <div class='logo' style='border:none;border-radius:0;'>	                	
-	          <a href='index.php' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
+	          <a href='index.html' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
 	    }else{
 	    if(empty($foto_perfil)){
 	    echo "<div class='logo-container'>
@@ -233,7 +233,7 @@ if ($con) {
 	<div class="header header-filter" style="background-image: url('<?php echo $foto_capa_anunciante ?>');"></div>
 	<div class="main main-raised">
 		<h1 class="text-center">Confirmação de email</h1><br>
-		<h4 class="text-center"><?php echo $msg_conf ?><a href="index.php">Continuar</a>.</h4>
+		<h4 class="text-center"><?php echo $msg_conf ?><a href="index.html">Continuar</a>.</h4>
 	</div>
 <div id="testenoti">
 <div class="modal fade" id="Modalnoti" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">

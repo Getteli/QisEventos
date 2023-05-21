@@ -98,7 +98,7 @@ $envio = filter_input(INPUT_GET, "envio");
 		if ($lvl == "1"){
 		echo "<div class='logo-container'>
 		<div class='logo' style='border:none;border-radius:0;'>
-		<a href='index.php' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
+		<a href='index.html' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
 		}else{
 		if(empty($foto_perfil)){
 		echo "<div class='logo-container'>

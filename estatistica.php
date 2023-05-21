@@ -194,7 +194,7 @@ if (!empty($prop)) {
 	if ($lvl == "1") {
 	echo "<div class='logo-container'>
 		<div class='logo' style='border:none;border-radius:0;'>
-		<a href='index.php' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
+		<a href='index.html' alt='login QISeventos' rel='tooltip' title='<b>Entre</b> e busque o melhor conteudo para seu <b>evento</b>' data-placement='bottom' data-html='true'><img src='assets/img/favicon_negativo.png'></a>";
 	}else{
 		if(empty($foto_perfil)){
 		echo "<div class='logo-container'>
@@ -235,7 +235,7 @@ if (!empty($prop)) {
 	<!-- logo-container -->
 	<div class="collapse navbar-collapse" id="navigation-index">
 	<!-- a partir daqui é o menu que varia -->
-	<?php include 'assets/php/menus-index.php'; ?>
+	<?php include 'assets/php/menus-index.html'; ?>
 	<!-- termino do menu variavel -->
 	</div>
 	<!-- collapse navbar-collapse -->

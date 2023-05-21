@@ -31,6 +31,6 @@ include_once 'assets/php/conexao.php';
 </style>
 <body>
 <h1 style="color: #F88C00">OPS <a style="color:#4b4b4b">! :(</a></h1>
-<h3 style="color: #4b4b4b">Estamos com problemas em nossos servidores, Por favor <a href="index.php">tente novamente</a> em alguns minutos!</h3>
+<h3 style="color: #4b4b4b">Estamos com problemas em nossos servidores, Por favor <a href="index.html">tente novamente</a> em alguns minutos!</h3>
 
 <img src="assets/img/erro.png" />
